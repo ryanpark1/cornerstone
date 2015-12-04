@@ -131,4 +131,16 @@ body {
   .featurette-heading {
     margin-top: 120px;
   }
+
+
+#logo{
+	width: 150px;
+	height: 55px;
+}  
+}
+#main {
+	border: 2px solid green;
+	width: 1100px;
+	height: 750px;
+	margin-left: 150px;
 }
