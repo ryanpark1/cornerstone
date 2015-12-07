@@ -30,7 +30,7 @@ body {
   padding-left: 15px;
 }
 .navbar-wrapper .navbar .container {
-  width: auto;
+  width:auto;
 }
 
 
@@ -103,7 +103,7 @@ body {
   }
   .navbar-wrapper .container {
     padding-right: 15px;
-    padding-left: 15px;
+    padding-left: 0px;
   }
   .navbar-wrapper .navbar {
     padding-right: 0;
@@ -113,6 +113,7 @@ body {
   /* The navbar becomes detached from the top, so we round the corners */
   .navbar-wrapper .navbar {
     border-radius: 4px;
+
   }
 
   /* Bump up size of carousel content */
@@ -134,13 +135,42 @@ body {
 
 
 #logo{
-	width: 150px;
-	height: 55px;
+	width: 165px;
+	height: 53px;
+	
+	border-radius: 4px;
+
 }  
 }
 #main {
 	border: 2px solid green;
-	width: 1100px;
-	height: 750px;
+	width: auto;
+	height: 550px;
 	margin-left: 150px;
+  margin-right: 150px;
+	margin-top: 0px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
