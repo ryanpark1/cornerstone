@@ -103,7 +103,7 @@ body {
   }
   .navbar-wrapper .container {
     padding-right: 15px;
-    padding-left: 0px;
+    padding-left: 20px;
   }
   .navbar-wrapper .navbar {
     padding-right: 0;
@@ -143,12 +143,16 @@ body {
 }  
 }
 #main {
-	border: 2px solid green;
+	border: 2px solid white;
 	width: auto;
-	height: 550px;
+	height: 500px;
 	margin-left: 150px;
   margin-right: 150px;
 	margin-top: 0px;
+}
+#bottom{
+  margin-left: 40px;
+  display: inline-block;
 }
 
 
