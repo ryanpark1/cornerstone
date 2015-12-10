@@ -109,6 +109,10 @@ body {
     padding-right: 0;
     padding-left: 0;
   }
+  .navbar-wrapper .navbar a{
+    color: green;
+
+  }
 
   /* The navbar becomes detached from the top, so we round the corners */
   .navbar-wrapper .navbar {
@@ -145,7 +149,7 @@ body {
 #main {
 	border: 2px solid white;
 	width: auto;
-	height: 500px;
+	height: 650px;
 	margin-left: 150px;
   margin-right: 150px;
 	margin-top: 0px;
